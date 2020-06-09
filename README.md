@@ -1,2 +1,2 @@
 # Project-Euler-Solutions
-Regroupement de solutions aux de problèmes de Project Euler
+Regroupement de solutions aux problèmes de Project Euler
