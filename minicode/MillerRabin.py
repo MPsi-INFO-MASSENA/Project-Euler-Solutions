@@ -5,6 +5,16 @@ import random
 
 
 def is_Prime(n, k = 8):
+"""
+Test de primalité probabiliste
+
+    Parameters:
+    n (int): nbr dont on veut tester la primalité 
+
+    Returns:
+    bool : retourne si oui ou non le nombre est premier 
+"""
+
     
     if n%2 == 0:
         return False
