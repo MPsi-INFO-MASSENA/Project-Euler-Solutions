@@ -5,7 +5,7 @@ L'idée serait de construire un module python à travers ce dossier.
 
 Quant ce module sera prêt, vous pouvez suivre ce mini tuto :
 
-## Installation
+## Installation 
 
 ```bash
 cd <PATH>
