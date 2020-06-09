@@ -1,11 +1,11 @@
 # Comment UPLOAD ses solutions
 
 
-##Méthode 1 (Facile) :
+## Méthode 1 (Facile) :
 
 Directement depuis le site avec le button : "Upload files"
 
-##Méthode 2 (- Facile mais rapide):
+## Méthode 2 (- Facile mais rapide):
 
 ```bash
 
