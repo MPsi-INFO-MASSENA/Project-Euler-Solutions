@@ -25,8 +25,10 @@ git push -u origin master
 
 ```
 
-<PATH> : votre Dossier où se situe les fichiers à commit
+PATH : votre Dossier où se situe les fichiers à commit
 
-<NameOfTheFile> : Nom des fichiers à commit (mettre un . pour tous commit dans <PATH>)
+NameOfTheFile : Nom des fichiers à commit (mettre un . pour tous commit dans <PATH>)
 
-<REPO>: Le répositorie où vous voulez commit votre code
+REPO: Le répositorie où vous voulez commit votre code
+
+TITRE: sujet du commit (vous pouvez le laisser vide, ie "")
