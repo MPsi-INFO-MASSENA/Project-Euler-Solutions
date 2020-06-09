@@ -12,7 +12,7 @@ cd <PATH>
 
 git clone https://github.com/MPsi-INFO-MASSENA/Project-Euler-Solutions/minicode
 ```
-PATH désigne votre dossier de travail
+PATH désigne votre dossier de travail (i.e : C:\Users\victor\Bureau\MonDossierDeTravail)
 
 Pour installer git : https://git-scm.com
 
