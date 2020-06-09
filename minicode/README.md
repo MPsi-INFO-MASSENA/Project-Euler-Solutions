@@ -1,7 +1,7 @@
 # Codes en rapport avec les problèmes
 
 Ici vous pouvez mettre des portions de code qui sont "passe-partout".
-L'idée serait de construire un module python à travers se dossier.
+L'idée serait de construire un module python à travers ce dossier.
 
 Quant ce module sera prêt, vous pouvez suivre ce mini tuto :
 
