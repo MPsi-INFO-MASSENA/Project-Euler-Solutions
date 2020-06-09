@@ -10,7 +10,7 @@ Quant ce module sera prêt, vous pourrez suivre ce mini tuto :
 ```bash
 cd <PATH>
 
-git clone https://github.com/MPsi-INFO-MASSENA/Project-Euler-Solutions/minicode
+git clone https://github.com/MPsi-INFO-MASSENA/Project-Euler-Solutions
 ```
 PATH désigne votre dossier de travail (i.e : C:\Users\victor\Bureau\MonDossierDeTravail)
 
